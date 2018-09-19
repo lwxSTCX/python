@@ -1,0 +1,7 @@
+双击cmd.bat
+输入zhengzhi.exe  获取的页数即可
+
+例如我们要获取最新的五页时事政治，
+就输入    zhengzhi.exe 5
+
+
