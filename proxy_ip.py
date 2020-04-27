@@ -1,5 +1,5 @@
 #coding=utf-8
-#获取最新ip地址
+#获取最新代理ip地址
 
 import requests
 import threading
